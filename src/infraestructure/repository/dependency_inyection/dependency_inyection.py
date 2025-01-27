@@ -1,4 +1,4 @@
-from src.infraestructure.connection import get_connection
+from src.infraestructure.repository.connection import get_connection
 
 
 def get_db_connection():
